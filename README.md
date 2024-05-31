@@ -1,2 +1,2 @@
-this is Relpo. a react app integrated within a flutter app. available on the playstore now! 
-~ Relpo
+this is Relpo. a react app in flutter to find acting gigs near you
+
